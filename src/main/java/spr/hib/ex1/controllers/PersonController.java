@@ -6,9 +6,6 @@ import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RequestParam;
 import spr.hib.ex1.services.PersonService;
 
-/**
- * Created by dono on 4/25/16.
- */
 @Controller
 @RequestMapping("/person")
 public class PersonController {

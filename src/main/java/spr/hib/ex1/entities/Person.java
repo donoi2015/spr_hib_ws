@@ -2,9 +2,6 @@ package spr.hib.ex1.entities;
 
 import javax.persistence.*;
 
-/**
- * Created by dono on 4/25/16.
- */
 @Entity
 @Table(name="person")
 public class Person {

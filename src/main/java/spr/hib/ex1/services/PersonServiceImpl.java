@@ -7,9 +7,6 @@ import spr.hib.ex1.entities.Person;
 
 import java.util.List;
 
-/**
- * Created by dono on 4/25/16.
- */
 @Service
 public class PersonServiceImpl implements PersonService {
 
